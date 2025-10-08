@@ -1,6 +1,6 @@
-# 🦸 Marvel Movie Quiz
+# 🦸 Marvel Quiz - Streamlit App
 
-An interactive Marvel Cinematic Universe quiz built with Streamlit that tests your knowledge of the Avengers and gives movie recommendations based on your answers!
+A interactive Marvel Cinematic Universe quiz built with Streamlit that tests your knowledge of the Avengers and ends with a Disney+ recommendation!
 
 ## 🎬 Features
 
@@ -8,7 +8,6 @@ An interactive Marvel Cinematic Universe quiz built with Streamlit that tests yo
 - **Interactive quiz interface** with progress tracking
 - **Score calculation** and detailed results
 - **Marvel-themed design** with cosmic backgrounds
-- **Movie recommendations** based on your quiz performance
 - **Disney+ promotion** message at the end
 - **Responsive design** for all devices
 
@@ -144,7 +143,7 @@ The quiz is fully responsive and works on:
 
 ## 🎬 About
 
-This quiz was created to test Marvel fans' knowledge while promoting **Avengers: Infinity War** on Disney+! Get personalized movie recommendations based on your quiz performance.
+This quiz was created to test Marvel fans' knowledge while promoting **Avengers: Infinity War** on Disney+!
 
 ## 📄 License
 
