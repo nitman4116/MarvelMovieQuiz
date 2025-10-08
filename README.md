@@ -2,6 +2,9 @@
 
 An interactive Marvel Cinematic Universe quiz built with Streamlit that tests your knowledge of the Avengers and gives movie recommendations based on your answers!
 
+## Deployed url: https://marvel-movie-quiz.vercel.app/
+
+
 ## 🎬 Features
 
 - **5 Marvel-themed questions** with multiple choice answers
